@@ -1,0 +1,6 @@
+Bonjour, ceci est la première ligne du fichier.
+Voici la deuxième ligne avec quelques informations.
+PHP permet de lire facilement des fichiers texte.
+Cette ligne contient des chiffres : 123456789
+Et voici la dernière ligne du fichier !
+
